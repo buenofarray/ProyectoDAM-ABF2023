@@ -1,0 +1,6 @@
+@ProyectoDAM_ABF2023_HostAddress = http://localhost:5120
+
+GET {{ProyectoDAM_ABF2023_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
